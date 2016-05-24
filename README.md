@@ -5,6 +5,7 @@ This project provides example code for device that can trigger off of a keyword 
 ## Requirements
 - [Python 3.4+](https://www.python.org/)
 	- [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
+	- [pocketsphinx](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pocketsphinx)
 - [Microphone](http://amzn.to/1rvSxuS)
 
 ## Using CMU Sphinx
